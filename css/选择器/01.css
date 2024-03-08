@@ -1,0 +1,19 @@
+/*标签选择器*/
+h1 {
+    color: blue;
+}
+
+/*类选择器*/
+.class1 {
+    color: red;
+}
+
+/* id选择器 */
+#id0 {
+    color: rgb(47, 192, 158);
+}
+
+/* 指定只有特定的 HTML 元素会受类的影响 */
+h1.center{
+    color: chartreuse;
+}
